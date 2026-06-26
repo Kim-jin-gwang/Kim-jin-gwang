@@ -32,6 +32,12 @@
 
 ## 🚀 Projects
 
+### 💵 [Bond-EZ](https://github.com/Kim-jin-gwang/Bond-EZ)
+> **개인 투자자를 위한 스마트 채권 및 실시간 뉴스 통합 정보 포털 서비스**
+- **역할**: 3인 프로젝트 / 데이터 엔지니어링 파이프라인(Airflow, Spark, Flink) 설계 및 백엔드 개발 담당
+- **기술 스택**: `Python`, `Django`, `Kafka`, `Spark`, `Flink`, `HDFS`, `Airflow`, `Elasticsearch`, `PostgreSQL`, `Grafana`
+- **주요 기능**: 분산 메시지 큐와 스트리밍/배치 엔진을 연동하여 채권 정보와 실시간 금융 뉴스를 정제·적재하고, AI 기반 뉴스 요약 및 맞춤형 채권 큐레이션을 사용자 포털로 제공
+
 ### 📊 [Shopping-mall-Purchase-Review-Analytics](https://github.com/Kim-jin-gwang/Shopping-mall-Purchase-Review-Analytics)
 > **원하는 상품의 리뷰 분석 및 구매 만족도(긍정/부정) 파악 서비스**
 - **역할**: 3인 프로젝트 / 리뷰 데이터 정제 및 감성 분석 척도 모델링 담당
