@@ -56,7 +56,7 @@
 - **기술 스택**: `Node.js`, `Python`, `MySQL`, `HTML`, `CSS`
 - **주요 기능**: 농작물의 편리한 직거래를 지원하는 안전 결제 연동 및 안정적인 데이터 통신 구현
 
-### 📚 [CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang)
+### 📚 [GreenGlossary - CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang)
 > **산림·농업 전문용어의 낮은 접근성을 해결하기 위한 전문용어 변환 시스템**
 - **역할**: 3인 프로젝트 / 전문용어 데이터 사전 구축 및 문맥 기반 키워드 추출 담당
 - **기술 스택**: `Python`, `Flask`, `KoBERT`, `Papago API`
