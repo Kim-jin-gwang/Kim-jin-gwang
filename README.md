@@ -3,6 +3,7 @@
 <p align="center">
   <a href="mailto:trealight112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/Kim-jin-gwang"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://demo-gateway.trealight112.workers.dev/"><img src="https://img.shields.io/badge/Live_Demos-2563EB?style=flat-square&logo=cloudflare&logoColor=white"/></a>
 </p>
 
 ---
@@ -32,6 +33,8 @@
 
 ## 🚀 Projects
 
+> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다.
+
 ### 💵 [Bond-EZ](https://github.com/Kim-jin-gwang/Bond-EZ)
 > **개인 투자자를 위한 스마트 채권 및 실시간 뉴스 통합 정보 포털 서비스**
 - **역할**: 3인 프로젝트 / 데이터 엔지니어링 파이프라인(Airflow, Spark, Flink) 설계 및 백엔드 개발 담당
@@ -56,7 +59,7 @@
 - **기술 스택**: `Node.js`, `Python`, `MySQL`, `HTML`, `CSS`
 - **주요 기능**: 농작물의 편리한 직거래를 지원하는 안전 결제 연동 및 안정적인 데이터 통신 구현
 
-### 📚 [GreenGlossary - CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang)
+### 📚 [GreenGlossary - CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang/GreenGlossary)
 > **산림·농업 전문용어의 낮은 접근성을 해결하기 위한 전문용어 변환 시스템**
 - **역할**: 3인 프로젝트 / 전문용어 데이터 사전 구축 및 문맥 기반 키워드 추출 담당
 - **기술 스택**: `Python`, `Flask`, `KoBERT`, `Papago API`
