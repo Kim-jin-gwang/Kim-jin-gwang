@@ -35,31 +35,31 @@
 
 > 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다.
 
-### 💵 [Bond-EZ](https://github.com/Kim-jin-gwang/Bond-EZ)
+### 💵 [Bond-EZ](https://github.com/Kim-jin-gwang/Bond-EZ) · [🔗 라이브 데모](https://bond-ez.pages.dev)
 > **개인 투자자를 위한 스마트 채권 및 실시간 뉴스 통합 정보 포털 서비스**
 - **역할**: 3인 프로젝트 / 데이터 엔지니어링 파이프라인(Airflow, Spark, Flink) 설계 및 백엔드 개발 담당
 - **기술 스택**: `Python`, `Django`, `Kafka`, `Spark`, `Flink`, `HDFS`, `Airflow`, `Elasticsearch`, `PostgreSQL`, `Grafana`
 - **주요 기능**: 분산 메시지 큐와 스트리밍/배치 엔진을 연동하여 채권 정보와 실시간 금융 뉴스를 정제·적재하고, AI 기반 뉴스 요약 및 맞춤형 채권 큐레이션을 사용자 포털로 제공
 
-### 📊 [Shopping-mall-Purchase-Review-Analytics](https://github.com/Kim-jin-gwang/Shopping-mall-Purchase-Review-Analytics)
+### 📊 [Shopping-mall-Purchase-Review-Analytics](https://github.com/Kim-jin-gwang/Shopping-mall-Purchase-Review-Analytics) · [🔗 라이브 데모](https://demo-gateway.trealight112.workers.dev/review-analytics/)
 > **원하는 상품의 리뷰 분석 및 구매 만족도(긍정/부정) 파악 서비스**
 - **역할**: 3인 프로젝트 / 리뷰 데이터 정제 및 감성 분석 척도 모델링 담당
 - **기술 스택**: `Python`, `GRU`, `Selenium`
 - **주요 기능**: 원하는 무신사 상품의 리뷰를 수집 및 감성 척도로 수치화하여 사용자 만족도를 다각도로 분석
 
-### ☕ [Cafe-Focusing](https://github.com/Kim-jin-gwang/Cafe-Focusing)
+### ☕ [Cafe-Focusing](https://github.com/Kim-jin-gwang/Cafe-Focusing) · [🔗 라이브 데모](https://demo-gateway.trealight112.workers.dev/cafe-focusing/)
 > **휴대폰 포커싱 한계 개선을 위한 아웃포커싱 기법 연구**
 - **역할**: 2인 프로젝트 / 배경 블러 처리 및 오브젝트/배경 추출 알고리즘 연구 담당
 - **기술 스택**: `Python`, `OpenCV`
 - **주요 기능**: OpenCV 영상 처리를 통해 피사체를 제외한 배경 영역에 정밀한 블러 처리를 적용해 향상된 아웃포커싱 제공
 
-### 🌾 [Jukini-Market](https://github.com/Kim-jin-gwang/Jukini-Market)
+### 🌾 [Jukini-Market](https://github.com/Kim-jin-gwang/Jukini-Market) · [🔗 라이브 데모](https://jukini-market.onrender.com)
 > **농작물 직거래 커뮤니티 및 쇼핑 사이트**
 - **역할**: 2인 프로젝트 / 백엔드 비즈니스 로직 구현 및 서버/DB 안정화 담당
 - **기술 스택**: `Node.js`, `Python`, `MySQL`, `HTML`, `CSS`
 - **주요 기능**: 농작물의 편리한 직거래를 지원하는 안전 결제 연동 및 안정적인 데이터 통신 구현
 
-### 📚 [GreenGlossary - CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang/GreenGlossary)
+### 📚 [GreenGlossary - CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang/GreenGlossary) · [🔗 라이브 데모](https://demo-gateway.trealight112.workers.dev/greenglossary/)
 > **산림·농업 전문용어의 낮은 접근성을 해결하기 위한 전문용어 변환 시스템**
 - **역할**: 3인 프로젝트 / 전문용어 데이터 사전 구축 및 문맥 기반 키워드 추출 담당
 - **기술 스택**: `Python`, `Flask`, `KoBERT`, `Papago API`
