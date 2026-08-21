@@ -33,7 +33,7 @@
 
 ## 🚀 Projects
 
-> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다.
+> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다. 모든 프로젝트는 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
 
 ### 💵 [Bond-EZ](https://github.com/Kim-jin-gwang/Bond-EZ) · [🔗 라이브 데모](https://bond-ez.pages.dev)
 > **개인 투자자를 위한 스마트 채권 및 실시간 뉴스 통합 정보 포털 서비스**
@@ -44,25 +44,25 @@
 ### 📊 [Shopping-mall-Purchase-Review-Analytics](https://github.com/Kim-jin-gwang/Shopping-mall-Purchase-Review-Analytics) · [🔗 라이브 데모](https://demo-gateway.trealight112.workers.dev/review-analytics/)
 > **원하는 상품의 리뷰 분석 및 구매 만족도(긍정/부정) 파악 서비스**
 - **역할**: 3인 프로젝트 / 리뷰 데이터 정제 및 감성 분석 척도 모델링 담당
-- **기술 스택**: `Python`, `GRU`, `Selenium`
-- **주요 기능**: 원하는 무신사 상품의 리뷰를 수집 및 감성 척도로 수치화하여 사용자 만족도를 다각도로 분석
+- **기술 스택**: `Python`, `TensorFlow(GRU)`, `Kiwi`, `Selenium`
+- **주요 기능**: 수집한 리뷰를 GRU 모델로 **문장 단위** 감성 분석하여, 긍·부정이 섞인 리뷰에서도 각 감성의 근거 키워드를 추출하고 만족도를 다각도로 시각화
 
 ### ☕ [Cafe-Focusing](https://github.com/Kim-jin-gwang/Cafe-Focusing) · [🔗 라이브 데모](https://demo-gateway.trealight112.workers.dev/cafe-focusing/)
 > **휴대폰 포커싱 한계 개선을 위한 아웃포커싱 기법 연구**
 - **역할**: 2인 프로젝트 / 배경 블러 처리 및 오브젝트/배경 추출 알고리즘 연구 담당
-- **기술 스택**: `Python`, `OpenCV`
-- **주요 기능**: OpenCV 영상 처리를 통해 피사체를 제외한 배경 영역에 정밀한 블러 처리를 적용해 향상된 아웃포커싱 제공
+- **기술 스택**: `Python`, `OpenCV`, `U2-Net(ONNX)`
+- **주요 기능**: 고전 영상처리(윤곽선·Otsu·GrabCut)와 U2-Net 딥러닝 세그멘테이션을 비교 지원하며, 분리한 피사체 외 배경에 블러·보케 등 아웃포커싱 효과 제공
 
 ### 🌾 [Jukini-Market](https://github.com/Kim-jin-gwang/Jukini-Market) · [🔗 라이브 데모](https://jukini-market.onrender.com)
 > **농작물 직거래 커뮤니티 및 쇼핑 사이트**
 - **역할**: 2인 프로젝트 / 백엔드 비즈니스 로직 구현 및 서버/DB 안정화 담당
-- **기술 스택**: `Node.js`, `Python`, `MySQL`, `HTML`, `CSS`
-- **주요 기능**: 농작물의 편리한 직거래를 지원하는 안전 결제 연동 및 안정적인 데이터 통신 구현
+- **기술 스택**: `Node.js`, `Express`, `PostgreSQL`, `Socket.io`
+- **주요 기능**: 농작물의 편리한 직거래를 지원하는 포인트 결제·실시간 구매 중계(Socket.io) 및 안정적인 데이터 통신 구현
 
 ### 📚 [GreenGlossary - CapStone_Forestry & Agriculture Translate System](https://github.com/Kim-jin-gwang/GreenGlossary) · [🔗 라이브 데모](https://demo-gateway.trealight112.workers.dev/greenglossary/)
 > **산림·농업 전문용어의 낮은 접근성을 해결하기 위한 전문용어 변환 시스템**
 - **역할**: 3인 프로젝트 / 전문용어 데이터 사전 구축 및 문맥 기반 키워드 추출 담당
-- **기술 스택**: `Python`, `Flask`, `KoBERT`, `Papago API`
+- **기술 스택**: `Python`, `Flask`, `KoBERT`, `TensorFlow`
 - **주요 기능**: 전문 용어가 다수 포함된 텍스트를 인공지능 모델을 활용해 쉬운 단어로 변환 제공
 
 ---
