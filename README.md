@@ -9,13 +9,13 @@
 ---
 
 ## 💫 About Me
-> **데이터를 다루고 인프라를 안정적으로 운용하는 데 흥미를 가진 개발자입니다.**  
-> 군대에서 체계관리소대장으로서 군단 서버 및 DB를 직접 운용하며 인프라 관리 역량을 다졌고, 현재는 **SSAFY 15기 데이터 트랙**에서 대용량 데이터 파이프라인 구축 및 인공지능 기반 분석 역량을 고도화하고 있습니다.
+> **데이터를 다루고 인프라를 안정적으로 운용하는 데 흥미를 가진 백엔드·데이터 엔지니어입니다.**  
+> 군에서 소대장으로 군단 서버·네트워크·DB를 직접 운용하며 인프라 관리 역량을 다졌고, 현재는 **SSAFY 15기 데이터 트랙**에서 대용량 데이터 파이프라인과 Spring Boot·Redis 기반 실시간 백엔드를 설계·구축하고 있습니다.
 
-- 🏫 **Education**: 상명대학교 Software 전공 (학점 4.14 / 4.5)
-- 🎓 **Activity**: SSAFY 15기 데이터 트랙 교육생 (2026.01 ~ )
-- 🛡️ **Military Service**: 육군 소위~중위 체계관리소대장 (2023.06 ~ 2024.06) & 대대 인사과장 (2024.06 ~ 2025.06)
-- 🎯 **Goals**: 분산 환경에서의 대규모 데이터 처리 아키텍처 설계 및 머신러닝 분석 최적화
+- 🏫 **Education**: 상명대학교 소프트웨어학과 (학점 4.14 / 4.5)
+- 🎓 **Activity**: SSAFY 15기 대전캠퍼스 데이터트랙 교육생 (2026.01 ~ ) · 1학기 성적우수상
+- 🛡️ **Military Service**: 육군 소위~중위 · 소대장(서버·네트워크 관리, 2023.06 ~ 2024.06) & 대대 인사과장 (2024.06 ~ 2025.06)
+- 🎯 **Goals**: 분산 환경에서의 대규모 데이터 처리 아키텍처 설계와 무손실·무중단 데이터 인프라 운영
 
 ---
 
@@ -23,9 +23,9 @@
 
 | 구분 | 🔥 익숙해요 (Comfortable) | 🌱 경험해봤어요 (Familiar) |
 | :--- | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
-| **Data Engineering** | <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apacheflink&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> | <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> |
-| **Backend & Frontend** | - | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
+| **Data Engineering** | <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apacheflink&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> | <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> |
+| **Backend & Frontend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
 | **Databases** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
 | **DevOps & Cloud** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> |
 
@@ -34,6 +34,13 @@
 ## 🚀 Projects
 
 > 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다. 모든 프로젝트는 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
+
+### 👁️ [eye-dont-care](https://github.com/Kim-jin-gwang/eye-dont-care) · [🔗 라이브 데모](https://eye-dont-care.pages.dev)
+> **웹캠 하나로 눈(시선·깜빡임)이 컨트롤러가 되는 눈싸움 게임 웹 플랫폼**
+- **역할**: 6인 프로젝트 / 백엔드 REST API 설계(게임·경기 결과·랜덤 매칭·랭킹·길드) 및 dbt·Airflow 분석 파이프라인 구축 담당 (152 커밋, 릴리스 9회)
+- **기술 스택**: `Java`, `Spring Boot`, `Redis`, `PostgreSQL(JSONB)`, `WebSocket`, `dbt`, `Airflow`, `Vue 3`, `TypeScript`, `MediaPipe`
+- **주요 기능**: Redis 원자적 선점 예약(예약→확정→보상)으로 락 없이 동시 요청에도 중복 없는 랜덤 매칭을 확정하고 WebSocket으로 실시간 통지. 게임마다 다른 경기 결과를 JSONB 단일 스키마로 적재해 주간 랭킹을 집계하며, dbt 감사 모델로 서빙 사본과 원본의 정합성을 야간 배치로 검증
+- **라이브 데모**: 백엔드 없이 브라우저 안의 목 백엔드로 동작 — 웹캠을 허용하면 실제 눈 추적으로 플레이, 눈싸움·눈 깜빡이기·리듬 게임은 데모 봇과 랜덤 매칭 대결 가능
 
 ### 💵 [Bond-EZ](https://github.com/Kim-jin-gwang/Bond-EZ) · [🔗 라이브 데모](https://bond-ez.pages.dev)
 > **개인 투자자를 위한 스마트 채권 및 실시간 뉴스 통합 정보 포털 서비스**
@@ -70,11 +77,14 @@
 ## 🏆 Awards & Certifications
 
 ### 🎖️ Awards
+- **2026.06** | SSAFY 15기 1학기 성적우수상 (대전캠퍼스 데이터트랙 종합 2등) 🏅
+- **2024.05** | 사이버 보안 기간평가 대비 서버 안정 관리·보안 취약점 분석 대대장 표창 🎖️
 - **2023.12** | 군단 서버 관리 및 체계 성능 개선 군단장 표창 🎖️
 - **2022.11** | 상명대학교(SMU) Github 경진대회 최우수상 (KoBERT를 이용한 기계독해학습) 🏆
 
 ### 📜 Certifications
-- **2026.02** | OPIC IM1
+- **2026.08** | TOEIC Speaking 120 (IM2)
+- **2026.01** | OPIc IM1
 - **2025.12** | SQLD (개발자용 SQL 자격)
 - **2025.11** | ADsP (데이터 분석 준전문가)
 - **2022.12** | 빅데이터분석기사
