@@ -42,7 +42,10 @@
 - **역할**: 6인 프로젝트 / 인프라(Hadoop·Kafka 2노드 클러스터, CI·배포) 및 데이터 파이프라인(공공 API 수집·임베딩·MapReduce 매칭) 담당
 - **기술 스택**: `Kafka`, `HDFS`, `MapReduce`, `Airflow`, `Python`, `PyTorch(YOLO26 + DINOv2)`, `Java`, `Spring Boot`, `PostgreSQL`, `Kotlin`, `Jenkins`, `Docker`
 - **주요 기능**: 공공 API 공고 163만 건·보호소 사진 45만 장(128.9GB)을 HDFS에 적재하고 GPU로 768차원 벡터화한 뒤, MapReduce 5종(K-Means·kNN 조인·행렬곱·쎄타조인·자카드)으로 검색 자산을 만들고 상주 매칭 엔진이 축종·실종일·지역으로 좁힌 후보에서 Top-20을 비동기로 제시
-- **성과**: K-Means 색인으로 후보를 7%로 줄여도 recall 손실 0.001(0.649 → 0.648), 2노드 스케일아웃 1.58× · Combiner로 셔플 571배 감소
+- **성과**:
+  - 45만 장을 전부 비교하지 않고 닮은 그룹 7%만 비교해도 정확도 유지 (정답이 후보 20마리 안에 드는 비율 64.9% → 64.8%)
+  - 서버를 1대에서 2대로 늘려 같은 분산 작업을 390초 → 247초로 단축
+  - 서버 간 중간 데이터 전송량을 571분의 1로 줄여 메모리 부족으로 작업이 실패하던 문제 해결
 - **라이브 데모**: 없음 — Hadoop 클러스터·GPU가 필요해 실측 기록과 실제 화면은 [레포 README](https://github.com/Kim-jin-gwang/meong-go-spot)에 정리
 
 ### 👁️ [eye-dont-care](https://github.com/Kim-jin-gwang/eye-dont-care)
