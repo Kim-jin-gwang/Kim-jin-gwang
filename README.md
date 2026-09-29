@@ -10,7 +10,8 @@
 
 ## 💫 About Me
 > **데이터를 다루고 인프라를 안정적으로 운용하는 데 흥미를 가진 백엔드·데이터 엔지니어입니다.**  
-> 군에서 소대장으로 군단 서버·네트워크·DB를 직접 운용하며 인프라 관리 역량을 다졌고, 현재는 **SSAFY 15기 데이터 트랙**에서 대용량 데이터 파이프라인과 Spring Boot·Redis 기반 실시간 백엔드를 설계·구축하고 있습니다.
+> 군에서 소대장으로 군단 서버·네트워크·DB를 직접 운용하며 인프라 관리 역량을 다졌고, 현재는 **SSAFY 15기 데이터 트랙**에서 대용량 데이터 파이프라인과 Spring Boot·Redis 기반 실시간 백엔드를 설계·구축하고 있습니다.  
+> 최근에는 Hadoop·Kafka 2노드 클러스터를 직접 구축해 공공 데이터 공고 163만 건·사진 45만 장을 적재·처리하고 배포까지 운영했습니다.
 
 - 🏫 **Education**: 상명대학교 소프트웨어학과 (학점 4.14 / 4.5)
 - 🎓 **Activity**: SSAFY 15기 대전캠퍼스 데이터트랙 교육생 (2026.01 ~ ) · 1학기 성적우수상
@@ -27,19 +28,22 @@
 | **Data Engineering** | <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apacheflink&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> | <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> |
 | **Backend & Frontend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
 | **Databases** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
-| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> |
+| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> |
+| **AI / ML** | - | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> |
 
 ---
 
 ## 🚀 Projects
 
-> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다. 모든 프로젝트는 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
+> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 멍고반점을 제외한 아래 프로젝트들을 직접 체험해볼 수 있습니다. 이 프로젝트들은 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
 
 ### 🐾 [멍고반점 (meong-go-spot)](https://github.com/Kim-jin-gwang/meong-go-spot)
 > **잃어버린 반려동물 사진을 전국 보호소 입소 동물과 AI 임베딩 유사도로 대조해 닮은 후보를 찾아주는 Android 앱**
 - **역할**: 6인 프로젝트 / 인프라(Hadoop·Kafka 2노드 클러스터, CI·배포) 및 데이터 파이프라인(공공 API 수집·임베딩·MapReduce 매칭) 담당
 - **기술 스택**: `Kafka`, `HDFS`, `MapReduce`, `Airflow`, `Python`, `PyTorch(YOLO26 + DINOv2)`, `Java`, `Spring Boot`, `PostgreSQL`, `Kotlin`, `Jenkins`, `Docker`
 - **주요 기능**: 공공 API 공고 163만 건·보호소 사진 45만 장(128.9GB)을 HDFS에 적재하고 GPU로 768차원 벡터화한 뒤, MapReduce 5종(K-Means·kNN 조인·행렬곱·쎄타조인·자카드)으로 검색 자산을 만들고 상주 매칭 엔진이 축종·실종일·지역으로 좁힌 후보에서 Top-20을 비동기로 제시
+- **성과**: K-Means 색인으로 후보를 7%로 줄여도 recall 손실 0.001(0.649 → 0.648), 2노드 스케일아웃 1.58× · Combiner로 셔플 571배 감소
+- **라이브 데모**: 없음 — Hadoop 클러스터·GPU가 필요해 실측 기록과 실제 화면은 [레포 README](https://github.com/Kim-jin-gwang/meong-go-spot)에 정리
 
 ### 👁️ [eye-dont-care](https://github.com/Kim-jin-gwang/eye-dont-care)
 > **웹캠 하나로 눈(시선·깜빡임)이 컨트롤러가 되는 눈싸움 게임 웹 플랫폼**
