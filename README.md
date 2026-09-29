@@ -35,6 +35,12 @@
 
 > 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다. 모든 프로젝트는 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
 
+### 🐾 [멍고반점 (meong-go-spot)](https://github.com/Kim-jin-gwang/meong-go-spot)
+> **잃어버린 반려동물 사진을 전국 보호소 입소 동물과 AI 임베딩 유사도로 대조해 닮은 후보를 찾아주는 Android 앱**
+- **역할**: 6인 프로젝트 / 인프라(Hadoop·Kafka 2노드 클러스터, CI·배포) 및 데이터 파이프라인(공공 API 수집·임베딩·MapReduce 매칭) 담당
+- **기술 스택**: `Kafka`, `HDFS`, `MapReduce`, `Airflow`, `Python`, `PyTorch(YOLO26 + DINOv2)`, `Java`, `Spring Boot`, `PostgreSQL`, `Kotlin`, `Jenkins`, `Docker`
+- **주요 기능**: 공공 API 공고 163만 건·보호소 사진 45만 장(128.9GB)을 HDFS에 적재하고 GPU로 768차원 벡터화한 뒤, MapReduce 5종(K-Means·kNN 조인·행렬곱·쎄타조인·자카드)으로 검색 자산을 만들고 상주 매칭 엔진이 축종·실종일·지역으로 좁힌 후보에서 Top-20을 비동기로 제시
+
 ### 👁️ [eye-dont-care](https://github.com/Kim-jin-gwang/eye-dont-care)
 > **웹캠 하나로 눈(시선·깜빡임)이 컨트롤러가 되는 눈싸움 게임 웹 플랫폼**
 - **역할**: 6인 프로젝트 / 백엔드 REST API 설계(게임·경기 결과·랜덤 매칭·랭킹·길드) 및 dbt·Airflow 분석 파이프라인 구축 담당 (152 커밋, 릴리스 9회)
