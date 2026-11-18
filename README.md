@@ -11,7 +11,8 @@
 ## 💫 About Me
 > **데이터를 다루고 인프라를 안정적으로 운용하는 데 흥미를 가진 백엔드·데이터 엔지니어입니다.**  
 > 군에서 소대장으로 군단 서버·네트워크·DB를 직접 운용하며 인프라 관리 역량을 다졌고, 현재는 **SSAFY 15기 데이터 트랙**에서 대용량 데이터 파이프라인과 Spring Boot·Redis 기반 실시간 백엔드를 설계·구축하고 있습니다.  
-> 최근에는 Hadoop·Kafka 2노드 클러스터를 직접 구축해 공공 데이터 공고 163만 건·사진 45만 장을 적재·처리하고 배포까지 운영했습니다.
+> 최근에는 Hadoop·Kafka 2노드 클러스터를 직접 구축해 공공 데이터 공고 163만 건·사진 45만 장을 적재·처리하고 배포까지 운영했습니다.  
+> 2학기 최종 기업연계 프로젝트에서는 설비 SW 버전 현황 관리 프로그램의 백엔드와 QA, 일정 관리를 맡아 기업 멘토에게 완성도 99% 평가를 받았습니다.
 
 - 🏫 **Education**: 상명대학교 소프트웨어학과 (학점 4.14 / 4.5)
 - 🎓 **Activity**: SSAFY 15기 대전캠퍼스 데이터트랙 교육생 (2026.01 ~ ) · 1학기 성적우수상
@@ -26,7 +27,7 @@
 | :--- | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 | **Data Engineering** | <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apacheflink&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> | <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> |
-| **Backend & Frontend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Backend & Frontend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Qt_(PySide6)-41CD52?style=flat-square&logo=qt&logoColor=white"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
 | **Databases** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
 | **DevOps & Cloud** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> |
 | **AI / ML** | - | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> |
@@ -35,7 +36,19 @@
 
 ## 🚀 Projects
 
-> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 멍고반점을 제외한 아래 프로젝트들을 직접 체험해볼 수 있습니다. 이 프로젝트들은 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
+> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 기업연계 프로젝트와 멍고반점을 제외한 아래 프로젝트들을 직접 체험해볼 수 있습니다. 이 프로젝트들은 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
+
+### 🏭 기업연계 프로젝트 — 설비 SW 버전 현황 관리 프로그램
+> **Excel로 수작업 관리하던 설비별 SW 버전 현황을 한 화면에서 비교하고 집계해 보고서까지 만드는 Windows 데스크톱 프로그램** (SSAFY 2학기 최종 기업연계 프로젝트, 2026.10 ~ 2026.11)
+- **역할**: 6인 프로젝트 / 백엔드(버전 비교 규칙, 현황 집계, 위험 설비 판정, AI 분석 흐름, 데이터 관리 화면), 시연 전 QA, 업무 배분 및 일정 관리 담당 (팀 커밋 305건 중 85건, 코드 병합 238건 중 84건)
+- **기술 스택**: `Python`, `PySide6(Qt)`, `SQLAlchemy`, `MySQL`, `pandas`, `openpyxl`, `python-docx`, `pytest`, `Docker Compose`
+- **주요 기능**: Excel 현황 자료를 읽어 DB에 저장하고, 표기가 제각각인 버전명을 같은 계열 안에서 릴리즈 순서로 비교해 최신 버전 적용률, 위험 설비, 업그레이드 우선순위를 계산. 결과를 대시보드, 버전 분포도, 날짜별 버전 변화 재생 화면으로 보여 주고 Excel 및 Word 보고서로 출력. AI는 질문을 조회 조건으로 바꾸고 설명만 작성하며, 숫자는 프로그램이 계산한 값과 대조
+- **성과**:
+  - 기업 멘토 평가 완성도 99%, 마지막 멘토링에서 추가 수정 요청 없음
+  - 시연 전 QA로 결함 10건을 정리해 영향이 큰 4건을 다음 날 수정, 버전 변화 재생 한 칸 2.1초 → 0.62초 이하로 단축
+  - 최종 발표 전날 리허설에서 조회 중 프로그램이 종료되는 문제를 당일 수정하고 다음 날 시연을 직접 진행
+  - 현업에서 유지보수할 수 있도록 사용자 가이드, 인수인계서, 개발 문서 3종 약 60쪽 작성
+- **저장소 및 데모**: 없음 — 기업 연계 과제라 코드와 화면은 공개하지 않습니다
 
 ### 🐾 [멍고반점 (meong-go-spot)](https://github.com/Kim-jin-gwang/meong-go-spot)
 > **잃어버린 반려동물 사진을 전국 보호소 입소 동물과 AI 임베딩 유사도로 대조해 닮은 후보를 찾아주는 Android 앱**
