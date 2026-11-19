@@ -36,7 +36,7 @@
 
 ## 🚀 Projects
 
-> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 멍고반점을 제외한 아래 프로젝트들을 직접 체험해볼 수 있습니다. 이 프로젝트들은 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
+> 🌐 **[라이브 데모 포트폴리오](https://demo-gateway.trealight112.workers.dev/)** — 아래 프로젝트들을 직접 체험해볼 수 있습니다. 이 프로젝트들은 Docker로 로컬 재현도 가능합니다 (`docker compose up` / `docker run`).
 
 ### 🗺️ VerMap
 > **Excel로 관리하던 설비별 SW 버전 현황을 한 화면에서 비교하고 보고서까지 만드는 Windows 데스크톱 프로그램**
@@ -59,7 +59,7 @@
   - 45만 장을 전부 비교하지 않고 닮은 그룹 7%만 비교해도 정확도 유지 (정답이 후보 20마리 안에 드는 비율 64.9% → 64.8%)
   - 서버를 1대에서 2대로 늘려 같은 분산 작업을 390초 → 247초로 단축
   - 서버 간 중간 데이터 전송량을 571분의 1로 줄여 메모리 부족으로 작업이 실패하던 문제 해결
-- **라이브 데모**: 없음 — Hadoop 클러스터·GPU가 필요해 실측 기록과 실제 화면은 [레포 README](https://github.com/Kim-jin-gwang/meong-go-spot)에 정리
+- **라이브 데모**: Android 앱의 실종 등록, 유사도 분석, 입양 소개팅 화면을 예시 자료로 옮긴 웹 데모 — 실측 기록과 실제 화면은 [레포 README](https://github.com/Kim-jin-gwang/meong-go-spot)에 정리
 
 ### 👁️ [eye-dont-care](https://github.com/Kim-jin-gwang/eye-dont-care)
 > **웹캠 하나로 눈(시선·깜빡임)이 컨트롤러가 되는 눈싸움 게임 웹 플랫폼**
